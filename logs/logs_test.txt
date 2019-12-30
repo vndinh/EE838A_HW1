@@ -1,0 +1,20 @@
+
+========== Test Begin ==========
+
+Image 0001, Time 0.74332, Shape = (1, 332, 500, 3), Loss = 0.0140
+Image 0002, Time 0.50509, Shape = (1, 426, 640, 3), Loss = 0.0267
+Image 0003, Time 0.50560, Shape = (1, 424, 640, 3), Loss = 0.0369
+Image 0004, Time 0.61585, Shape = (1, 480, 640, 3), Loss = 0.0140
+Image 0005, Time 0.10387, Shape = (1, 426, 640, 3), Loss = 0.0501
+Image 0006, Time 0.13708, Shape = (1, 426, 640, 3), Loss = 0.0131
+Image 0007, Time 0.13622, Shape = (1, 426, 640, 3), Loss = 0.0123
+Image 0008, Time 0.58332, Shape = (1, 468, 640, 3), Loss = 0.0345
+Image 0009, Time 0.35873, Shape = (1, 500, 374, 3), Loss = 0.0170
+Image 0010, Time 0.59432, Shape = (1, 640, 478, 3), Loss = 0.0131
+
+Average Loss = 0.0232
+
+Validation Time: 4.34978
+
+========== Test End ==========
+

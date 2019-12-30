@@ -1,0 +1,110 @@
+
+========== Validation Begin ==========
+
+Image 0001, Time 1.03874, Shape = (1, 484, 640, 3), Loss = 0.0390
+Image 0002, Time 0.61485, Shape = (1, 480, 640, 3), Loss = 0.0105
+Image 0003, Time 0.36952, Shape = (1, 500, 374, 3), Loss = 0.0174
+Image 0004, Time 0.36285, Shape = (1, 500, 372, 3), Loss = 0.0125
+Image 0005, Time 0.32218, Shape = (1, 332, 500, 3), Loss = 0.0140
+Image 0006, Time 0.13091, Shape = (1, 480, 640, 3), Loss = 0.0267
+Image 0007, Time 0.54544, Shape = (1, 640, 426, 3), Loss = 0.0092
+Image 0008, Time 0.53412, Shape = (1, 428, 640, 3), Loss = 0.0106
+Image 0009, Time 0.50426, Shape = (1, 426, 640, 3), Loss = 0.0168
+Image 0010, Time 0.16140, Shape = (1, 480, 640, 3), Loss = 0.0157
+Image 0011, Time 0.52467, Shape = (1, 424, 640, 3), Loss = 0.0055
+Image 0012, Time 0.11084, Shape = (1, 426, 640, 3), Loss = 0.0287
+Image 0013, Time 0.60509, Shape = (1, 640, 480, 3), Loss = 0.0112
+Image 0014, Time 0.14198, Shape = (1, 480, 640, 3), Loss = 0.0175
+Image 0015, Time 0.10714, Shape = (1, 426, 640, 3), Loss = 0.0267
+Image 0016, Time 0.14684, Shape = (1, 426, 640, 3), Loss = 0.0105
+Image 0017, Time 0.12774, Shape = (1, 426, 640, 3), Loss = 0.0178
+Image 0018, Time 0.13836, Shape = (1, 428, 640, 3), Loss = 0.0172
+Image 0019, Time 0.11707, Shape = (1, 480, 640, 3), Loss = 0.0478
+Image 0020, Time 0.15234, Shape = (1, 480, 640, 3), Loss = 0.0201
+Image 0021, Time 0.33436, Shape = (1, 500, 348, 3), Loss = 0.0068
+Image 0022, Time 0.49706, Shape = (1, 640, 424, 3), Loss = 0.0423
+Image 0023, Time 0.48597, Shape = (1, 612, 612, 3), Loss = 0.0071
+Image 0024, Time 0.12783, Shape = (1, 424, 640, 3), Loss = 0.0339
+Image 0025, Time 0.11381, Shape = (1, 424, 640, 3), Loss = 0.0369
+Image 0026, Time 0.12545, Shape = (1, 426, 640, 3), Loss = 0.0157
+Image 0027, Time 0.12930, Shape = (1, 424, 640, 3), Loss = 0.0168
+Image 0028, Time 0.17590, Shape = (1, 480, 640, 3), Loss = 0.0185
+Image 0029, Time 0.06704, Shape = (1, 332, 500, 3), Loss = 0.0266
+Image 0030, Time 0.14933, Shape = (1, 480, 640, 3), Loss = 0.0207
+Image 0031, Time 0.10680, Shape = (1, 500, 374, 3), Loss = 0.0109
+Image 0032, Time 0.15331, Shape = (1, 480, 640, 3), Loss = 0.0096
+Image 0033, Time 0.09761, Shape = (1, 480, 640, 3), Loss = 0.0350
+Image 0034, Time 0.37509, Shape = (1, 374, 500, 3), Loss = 0.0364
+Image 0035, Time 0.15275, Shape = (1, 480, 640, 3), Loss = 0.0140
+Image 0036, Time 0.10119, Shape = (1, 426, 640, 3), Loss = 0.0268
+Image 0037, Time 0.18228, Shape = (1, 480, 640, 3), Loss = 0.0167
+Image 0038, Time 0.51664, Shape = (1, 422, 640, 3), Loss = 0.0293
+Image 0039, Time 0.45479, Shape = (1, 398, 640, 3), Loss = 0.0582
+Image 0040, Time 0.29786, Shape = (1, 500, 332, 3), Loss = 0.0323
+Image 0041, Time 0.35360, Shape = (1, 500, 376, 3), Loss = 0.0127
+Image 0042, Time 0.11027, Shape = (1, 500, 374, 3), Loss = 0.0109
+Image 0043, Time 0.13611, Shape = (1, 426, 640, 3), Loss = 0.0126
+Image 0044, Time 0.08421, Shape = (1, 374, 500, 3), Loss = 0.0220
+Image 0045, Time 0.10791, Shape = (1, 426, 640, 3), Loss = 0.0501
+Image 0046, Time 0.12258, Shape = (1, 426, 640, 3), Loss = 0.0275
+Image 0047, Time 0.55358, Shape = (1, 452, 640, 3), Loss = 0.0186
+Image 0048, Time 0.15107, Shape = (1, 480, 640, 3), Loss = 0.0132
+Image 0049, Time 0.14930, Shape = (1, 640, 426, 3), Loss = 0.0103
+Image 0050, Time 0.55238, Shape = (1, 450, 640, 3), Loss = 0.0213
+Image 0051, Time 0.17673, Shape = (1, 480, 640, 3), Loss = 0.0127
+Image 0052, Time 0.15047, Shape = (1, 480, 640, 3), Loss = 0.0137
+Image 0053, Time 0.13752, Shape = (1, 426, 640, 3), Loss = 0.0201
+Image 0054, Time 0.58150, Shape = (1, 640, 468, 3), Loss = 0.0079
+Image 0055, Time 0.13590, Shape = (1, 426, 640, 3), Loss = 0.0131
+Image 0056, Time 0.11307, Shape = (1, 426, 640, 3), Loss = 0.0486
+Image 0057, Time 0.46217, Shape = (1, 412, 640, 3), Loss = 0.0519
+Image 0058, Time 0.11147, Shape = (1, 426, 640, 3), Loss = 0.0230
+Image 0059, Time 0.30454, Shape = (1, 334, 500, 3), Loss = 0.0228
+Image 0060, Time 0.50910, Shape = (1, 640, 418, 3), Loss = 0.0086
+Image 0061, Time 0.12964, Shape = (1, 480, 640, 3), Loss = 0.0313
+Image 0062, Time 0.08793, Shape = (1, 424, 640, 3), Loss = 0.0375
+Image 0063, Time 0.11838, Shape = (1, 426, 640, 3), Loss = 0.0389
+Image 0064, Time 0.45094, Shape = (1, 542, 640, 3), Loss = 0.0252
+Image 0065, Time 0.14696, Shape = (1, 426, 640, 3), Loss = 0.0123
+Image 0066, Time 0.12409, Shape = (1, 428, 640, 3), Loss = 0.0189
+Image 0067, Time 0.12472, Shape = (1, 480, 640, 3), Loss = 0.0284
+Image 0068, Time 0.53314, Shape = (1, 640, 428, 3), Loss = 0.0142
+Image 0069, Time 0.15213, Shape = (1, 480, 640, 3), Loss = 0.0141
+Image 0070, Time 0.30294, Shape = (1, 290, 640, 3), Loss = 0.0216
+Image 0071, Time 0.63614, Shape = (1, 474, 640, 3), Loss = 0.0121
+Image 0072, Time 0.11881, Shape = (1, 426, 640, 3), Loss = 0.0168
+Image 0073, Time 0.16504, Shape = (1, 640, 480, 3), Loss = 0.0182
+Image 0074, Time 0.46291, Shape = (1, 640, 598, 3), Loss = 0.0172
+Image 0075, Time 0.55311, Shape = (1, 468, 640, 3), Loss = 0.0345
+Image 0076, Time 0.13699, Shape = (1, 426, 640, 3), Loss = 0.0167
+Image 0077, Time 0.14634, Shape = (1, 424, 640, 3), Loss = 0.0072
+Image 0078, Time 0.14798, Shape = (1, 480, 640, 3), Loss = 0.0185
+Image 0079, Time 0.15663, Shape = (1, 640, 480, 3), Loss = 0.0198
+Image 0080, Time 0.60451, Shape = (1, 498, 640, 3), Loss = 0.0172
+Image 0081, Time 0.15325, Shape = (1, 428, 640, 3), Loss = 0.0131
+Image 0082, Time 0.10161, Shape = (1, 398, 640, 3), Loss = 0.0130
+Image 0083, Time 0.39202, Shape = (1, 360, 640, 3), Loss = 0.0267
+Image 0084, Time 0.07117, Shape = (1, 332, 500, 3), Loss = 0.0108
+Image 0085, Time 0.07216, Shape = (1, 500, 374, 3), Loss = 0.0170
+Image 0086, Time 0.50198, Shape = (1, 640, 556, 3), Loss = 0.0078
+Image 0087, Time 0.34971, Shape = (1, 336, 500, 3), Loss = 0.0111
+Image 0088, Time 0.16838, Shape = (1, 480, 640, 3), Loss = 0.0101
+Image 0089, Time 0.55510, Shape = (1, 442, 640, 3), Loss = 0.0147
+Image 0090, Time 0.12478, Shape = (1, 640, 426, 3), Loss = 0.0184
+Image 0091, Time 0.11072, Shape = (1, 428, 640, 3), Loss = 0.0339
+Image 0092, Time 0.13300, Shape = (1, 424, 640, 3), Loss = 0.0253
+Image 0093, Time 0.11037, Shape = (1, 374, 500, 3), Loss = 0.0102
+Image 0094, Time 0.10108, Shape = (1, 480, 640, 3), Loss = 0.0353
+Image 0095, Time 0.60878, Shape = (1, 640, 478, 3), Loss = 0.0131
+Image 0096, Time 0.39105, Shape = (1, 354, 640, 3), Loss = 0.0344
+Image 0097, Time 0.19979, Shape = (1, 612, 612, 3), Loss = 0.0112
+Image 0098, Time 0.10644, Shape = (1, 426, 640, 3), Loss = 0.0308
+Image 0099, Time 0.20010, Shape = (1, 640, 478, 3), Loss = 0.0100
+Image 0100, Time 0.56697, Shape = (1, 478, 640, 3), Loss = 0.0168
+
+Average Loss = 0.0208
+
+Validation Time: 26.95121
+
+========== Validation End ==========
+
